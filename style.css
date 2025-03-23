@@ -1,0 +1,13 @@
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    user-select: none;
+}
+.so1{
+    text-transform: uppercase;
+    color: red;
+    user-select: none;
+}
+.so1.so2{
+    color: blue;
+}
